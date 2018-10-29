@@ -1,1 +1,1 @@
-# Politica de Privacidade para app de teste do Facebook - 'Token-ContadorDeLikes'
+# Privacy Policy for test facebook app "Token-ContadorDeLikes"
