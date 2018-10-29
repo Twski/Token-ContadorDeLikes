@@ -1,1 +1,1 @@
-# Hosted Privacy Policy for test facebook app "Token-ContadorDeLikes"
+# Hosted Privacy Policy for the Facebook testing app "Token-ContadorDeLikes"
