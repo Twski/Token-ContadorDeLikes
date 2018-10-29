@@ -1,1 +1,1 @@
-# Politica de Privacidade para app de teste do Facebook - 'Token-ContadorDeLikes'
+# Arquivos do projeto Contador de Likes - 3E Unicamp (out/2018)
